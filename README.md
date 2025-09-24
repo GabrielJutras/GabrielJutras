@@ -14,10 +14,25 @@ Currently, I’m focusing on **C#** and **Python**, while also exploring concept
 - Database design and queries with **SQL**  
 - Experimenting with **Python** for scripting and automation  
 
-## ⚡ Skills & Tools
-- **Languages**: C#, Python, SQL, JavaScript (beginner)  
-- **Tools**: Git, Visual Studio, VS Code, SQL Server  
-- **Other Experience**: Networking, VPNs, Microsoft 365, Cisco routers, NAS systems  
+## 🛠️ Technical Skills  
+
+### Languages  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+
+### Other Experience  
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
+![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=windows&logoColor=white)  
+![NAS](https://img.shields.io/badge/NAS-003366?style=for-the-badge&logo=icloud&logoColor=white)  
 
 ## 📫 Connect
 I enjoy learning, experimenting, and sharing progress. Feel free to check out my projects and follow along as I grow as a developer!
